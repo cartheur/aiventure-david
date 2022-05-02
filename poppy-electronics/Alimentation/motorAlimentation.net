@@ -1,0 +1,303 @@
+# EESchema Netlist Version 1.1 created  Fri 14 Mar 2014 15:42:11 CET
+(
+ ( /532308A8 $noname  U3 MOSP_PWF {Lib=MOSP_PWF}
+  (    1 /Vin )
+  (    2 /Vin )
+  (    3 /Vin )
+  (    4 N-000013 )
+  (    5 N-000006 )
+ )
+ ( /5321ADEE $noname  P2 CONN_2 {Lib=CONN_2}
+  (    1 GND )
+  (    2 /14V_-_10A )
+ )
+ ( /5321ADCF $noname  P1 CONN_2 {Lib=CONN_2}
+  (    1 GND )
+  (    2 /Vin )
+ )
+ ( /5321912C $noname  U2 LT1721 {Lib=LT1721}
+  (    1 N-000015 )
+  (    2 N-000016 )
+  (    5 GND )
+  (    7 N-000014 )
+  (    8 N-000009 )
+ )
+ ( /53204173 $noname  1u1 100nF {Lib=C}
+  (    1 GND )
+  (    2 /14V_-_10A )
+ )
+ ( /5320408B $noname  D2 1n4148 {Lib=DIODE}
+  (    1 N-000003 )
+  (    2 N-000015 )
+ )
+ ( /53204089 $noname  D3 1n4148 {Lib=DIODE}
+  (    1 N-000001 )
+  (    2 N-000015 )
+ )
+ ( /53204069 $noname  R7 10k {Lib=R}
+  (    1 N-000015 )
+  (    2 GND )
+ )
+ ( /53204051 $noname  R6 10k {Lib=R}
+  (    1 N-000001 )
+  (    2 /outINA )
+ )
+ ( /5320404E $noname  R5 49.3k {Lib=R}
+  (    1 N-000003 )
+  (    2 /14V_-_10A )
+ )
+ ( /53203FF6 $noname  R8 10k {Lib=R}
+  (    1 GND )
+  (    2 N-000016 )
+ )
+ ( /53203FB9 $noname  R10 10k {Lib=R}
+  (    1 N-000016 )
+  (    2 N-000011 )
+ )
+ ( /532039D1 $noname  Q5 2N2222 {Lib=NPN}
+  (    1 N-000009 )
+  (    2 N-000011 )
+  (    3 /Vin )
+ )
+ ( /532038E9 $noname  U1 INA213 {Lib=INA213}
+  (    1 GND )
+  (    2 GND )
+  (    3 /Vin )
+  (    4 N-000010 )
+  (    5 /14V_-_10A )
+  (    6 /outINA )
+ )
+ ( /53203BE1 $noname  C1 100nF {Lib=C}
+  (    1 GND )
+  (    2 /Vin )
+ )
+ ( /532039F5 $noname  D5 1N750 {Lib=DIODESCH}
+  (    1 GND )
+  (    2 N-000011 )
+ )
+ ( /532039E3 $noname  R9 4.7k {Lib=R}
+  (    1 /Vin )
+  (    2 N-000011 )
+ )
+ ( /5320363F $noname  D4 MBRB2545CT {Lib=DIODESCH}
+  (    1 /14V_-_10A )
+  (    2 /Vin )
+ )
+ ( /532035E6 $noname  Q1 2N2222 {Lib=NPN}
+  (    1 N-000007 )
+  (    2 N-000014 )
+  (    3 N-000005 )
+ )
+ ( /532035D5 $noname  Q2 2N2222 {Lib=NPN}
+  (    1 N-000013 )
+  (    2 N-000005 )
+  (    3 /Vin )
+ )
+ ( /532035CD $noname  Q3 2N2907 {Lib=PNP}
+  (    1 N-000013 )
+  (    2 N-000005 )
+  (    3 GND )
+ )
+ ( /5320353D $noname  D1 MBRB2545CT {Lib=DIODESCH}
+  (    1 GND )
+  (    2 N-000006 )
+ )
+ ( /53203525 $noname  L1 4.7u_6.4m {Lib=INDUCTOR}
+  (    1 N-000006 )
+  (    2 N-000010 )
+ )
+ ( /532034C3 $noname  R3 15m {Lib=R}
+  (    1 N-000010 )
+  (    2 /14V_-_10A )
+ )
+ ( /532034BD $noname  R2 330 {Lib=R}
+  (    1 N-000007 )
+  (    2 GND )
+ )
+ ( /532034B8 $noname  R1 1k {Lib=R}
+  (    1 /Vin )
+  (    2 N-000005 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component 1u1
+ SM*
+ C?
+ C1-1
+$endlist
+$component D2
+ D?
+ S*
+$endlist
+$component D3
+ D?
+ S*
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component D5
+ D?
+ S*
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component D4
+ D?
+ S*
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 1 "" ""
+ D3 1
+ R6 1
+Net 2 "/outINA" "outINA"
+ R6 2
+ U1 6
+Net 3 "" ""
+ D2 1
+ R5 1
+Net 4 "/14V - 10A" "14V - 10A"
+ P2 2
+ U1 5
+ R3 2
+ D4 1
+ R5 2
+ 1u1 2
+Net 5 "" ""
+ Q3 2
+ Q2 2
+ Q1 3
+ R1 2
+Net 6 "" ""
+ L1 1
+ D1 2
+ U3 5
+Net 7 "" ""
+ R2 1
+ Q1 1
+Net 8 "GND" "GND"
+ D5 1
+ C1 1
+ U1 2
+ 1u1 1
+ R7 2
+ U2 5
+ Q3 3
+ P1 1
+ D1 1
+ P2 1
+ R2 2
+ U1 1
+ R8 1
+Net 9 "" ""
+ Q5 1
+ U2 8
+Net 10 "" ""
+ U1 4
+ L1 2
+ R3 1
+Net 11 "" ""
+ Q5 2
+ R9 2
+ D5 2
+ R10 2
+Net 12 "/Vin" "Vin"
+ U3 2
+ Q2 3
+ R9 1
+ C1 2
+ D4 2
+ R1 1
+ P1 2
+ U3 1
+ U1 3
+ Q5 3
+ U3 3
+Net 13 "" ""
+ Q3 1
+ Q2 1
+ U3 4
+Net 14 "" ""
+ U2 7
+ Q1 2
+Net 15 "" ""
+ U2 1
+ D2 2
+ R7 1
+ D3 2
+Net 16 "" ""
+ U2 2
+ R10 1
+ R8 2
+}
+#End

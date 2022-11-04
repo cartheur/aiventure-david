@@ -1,6 +1,6 @@
 # aiventure-david
 
-It begins with a novel project called *poppy*. Search across GitHub for "poppy-humanoid" and you will see what I mean. There is a folder for the electronics in the head, as the descriptions of this are sparse. Poppy was an open-source 3D-printable bipedal robot that is expensive to build due to the cost of the Robotis motors. When we ordered a set in February 2021, it set us back a cool EUR 5.000. A Lulzbot and FlashForge printer helped us to realiza a prototype build.
+It begins with a novel project called *poppy*. Search across GitHub for "poppy-humanoid" and you will see what I mean. There is a folder for the electronics in the head, as the descriptions of this are sparse. Poppy was an open-source 3D-printable bipedal robot that is expensive to build due to the cost of the Robotis motors. When we ordered a set in February 2021, it set us back a cool EUR 5.000. A Lulzbot and FlashForge printer helped us to realize a prototype build.
 
 The name of the project needs some explaining: The term *aiventure* means adventure in AI. And I don't throw that term around lightly. Artificial intelligence, as much of a misnomer as it is, is notoriously complicated to render correctly. But I believe we have some candidate routines that qualify. The addition of *david* I don't readily recall, but it is between these three davids:
 
@@ -8,12 +8,13 @@ The name of the project needs some explaining: The term *aiventure* means advent
 * ![David two](/media/david-2.jpg "this david, or,")
 * ![David three](/media/david-3.jpg "this david.")
 
+Regardless of the origin, it gives us ways to envision our contribution.
 
 ## What is this project about?
 
 Because it is obvious to anyone who has worked with Aldebaran's *Nao* that it was built for the sole purpose of making money for the company, we needed to find a way to continue development of our flagship product *animals*. This is the solution: A home-grown 3D-printed bipedal robot that has our patented controllers and novel interactive software all in one package.
 
-## A bit of background to the story - since there is space here (Caution: gripes ahead)
+### A bit of background to the story - since there is space here (Caution: gripes ahead)
 
 In 2008, I invented the first dialogue of *aeon*: An interactive cognitive agent that differed from the ordinary "chatbots" that were all-the-rage at the time. By 2013, I had realized that as a piece of software, it lacked the true power of expression, since it was limited to exhibiting behvaiours in software and software only. In 2015, I started searching for a platform to continue work with a physical prototype and by late 2017, I centered on Nao, given its bipedal design and moderate sophistication of movement and desired expression vectors. Things went well until mid-2018 when the robot started malfunctioning and was sent to the factory *three times* for repair. I had to purchase an extended warranty just to keep the repairs going. Then by the end of the extended warranty, the robot failed entirely, not even starting-up.
 

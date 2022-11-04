@@ -14,6 +14,10 @@ Regardless of the origin, it gives us ways to envision our contribution.
 
 Because it is obvious to anyone who has worked with Aldebaran's *Nao* that it was built for the sole purpose of making money for the company, we needed to find a way to continue development of our flagship product *animals*. This is the solution: A home-grown 3D-printed bipedal robot that has our patented controllers and novel interactive software all in one package.
 
+## Some caveats
+
+We tried the python software provided by the Poppy project, *pypot* but found it unable to suit our needs, as it is wholesale. Therefore the code is truncated to contain just what is needed to get the robot online and ready to receive (polite) commands.
+
 ### A bit of background to the story - since there is space here (Caution: gripes ahead)
 
 In 2008, I invented the first dialogue of *aeon*: An interactive cognitive agent that differed from the ordinary "chatbots" that were all-the-rage at the time. By 2013, I had realized that as a piece of software, it lacked the true power of expression, since it was limited to exhibiting behvaiours in software and software only. In 2015, I started searching for a platform to continue work with a physical prototype and by late 2017, I centered on Nao, given its bipedal design and moderate sophistication of movement and desired expression vectors. Things went well until mid-2018 when the robot started malfunctioning and was sent to the factory *three times* for repair. I had to purchase an extended warranty just to keep the repairs going. Then by the end of the extended warranty, the robot failed entirely, not even starting-up.

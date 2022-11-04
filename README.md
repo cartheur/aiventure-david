@@ -4,9 +4,10 @@ It begins with a novel project called *poppy*. Search across GitHub for "poppy-h
 
 The name of the project needs some explaining: The term *aiventure* means adventure in AI. And I don't throw that term around lightly. Artificial intelligence, as much of a misnomer as it is, is notoriously complicated to render correctly. But I believe we have some candidate routines that qualify. The addition of *david* I don't readily recall, but it is between these three davids:
 
-* ![David one](/media/david-1.jpg "This david," height="150" width="150")
-* ![David two](/media/david-2.jpg "this david, or," height="150" width="150")
-* ![David three](/media/david-3.jpg "this david." height="150" width="150")
+* ![David one](/media/david-1.jpg "This david,")
+* ![David two](/media/david-2.jpg "this david, or,")
+* ![David three](/media/david-3.jpg "this david.")
+
 
 ## What is this project about?
 

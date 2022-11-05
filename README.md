@@ -8,7 +8,7 @@ The name of the project needs some explaining: The term *aiventure* means advent
 * This david,...
 * ![David two](/media/david-2.jpg "this david, or,")
 * this david, or,...
-* ![David three](/media/david-3.jpg "this david.")
+* ![David three](/media/david-6.jpg "this david.")
 * This david.
 
 Regardless of the origin, it gives us ways to envision our contribution.

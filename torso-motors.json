@@ -1,0 +1,772 @@
+{
+    "motors":
+    [
+        {
+            "registers":
+            [
+                "registers",
+                "goal_speed",
+                "compliant",
+                "safe_compliant",
+                "angle_limit",
+                "id",
+                "name",
+                "model",
+                "present_position",
+                "goal_position",
+                "present_speed",
+                "moving_speed",
+                "present_load",
+                "torque_limit",
+                "lower_limit",
+                "upper_limit",
+                "present_voltage",
+                "present_temperature",
+                "pid"
+            ],
+            "goal_speed": 0.0,
+            "compliant": true,
+            "angle_limit":
+            [
+                -79.96,
+                80.04
+            ],
+            "id": 33,
+            "name": "abs_z",
+            "model": "MX-28",
+            "present_position": 49.27,
+            "goal_position": 52.18,
+            "present_speed": 0.0,
+            "moving_speed": 0.0,
+            "present_load": 0.0,
+            "torque_limit": 100.0,
+            "lower_limit": -79.96,
+            "upper_limit": 80.04,
+            "present_voltage": 11.3,
+            "present_temperature": 35.0,
+            "pid":
+            [
+                4.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "registers":
+            [
+                "registers",
+                "goal_speed",
+                "compliant",
+                "safe_compliant",
+                "angle_limit",
+                "id",
+                "name",
+                "model",
+                "present_position",
+                "goal_position",
+                "present_speed",
+                "moving_speed",
+                "present_load",
+                "torque_limit",
+                "lower_limit",
+                "upper_limit",
+                "present_voltage",
+                "present_temperature",
+                "pid"
+            ],
+            "goal_speed": -0.0,
+            "compliant": true,
+            "angle_limit":
+            [
+                46.02,
+                -22.99
+            ],
+            "id": 34,
+            "name": "bust_y",
+            "model": "MX-28",
+            "present_position": 69.58,
+            "goal_position": 69.58,
+            "present_speed": -0.0,
+            "moving_speed": -0.0,
+            "present_load": -0.0,
+            "torque_limit": 100.0,
+            "lower_limit": 46.02,
+            "upper_limit": -22.99,
+            "present_voltage": 11.0,
+            "present_temperature": 33.0,
+            "pid":
+            [
+                4.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "registers":
+            [
+                "registers",
+                "goal_speed",
+                "compliant",
+                "safe_compliant",
+                "angle_limit",
+                "id",
+                "name",
+                "model",
+                "present_position",
+                "goal_position",
+                "present_speed",
+                "moving_speed",
+                "present_load",
+                "torque_limit",
+                "lower_limit",
+                "upper_limit",
+                "present_voltage",
+                "present_temperature",
+                "pid"
+            ],
+            "goal_speed": 0.0,
+            "compliant": true,
+            "angle_limit":
+            [
+                39.96,
+                -40.04
+            ],
+            "id": 35,
+            "name": "bust_x",
+            "model": "MX-28",
+            "present_position": -5.23,
+            "goal_position": -5.23,
+            "present_speed": -0.0,
+            "moving_speed": -0.0,
+            "present_load": -0.0,
+            "torque_limit": 100.0,
+            "lower_limit": 39.96,
+            "upper_limit": -40.04,
+            "present_voltage": 11.200000000000001,
+            "present_temperature": 32.0,
+            "pid":
+            [
+                4.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "registers":
+            [
+                "registers",
+                "goal_speed",
+                "compliant",
+                "safe_compliant",
+                "angle_limit",
+                "id",
+                "name",
+                "model",
+                "present_position",
+                "goal_position",
+                "present_speed",
+                "moving_speed",
+                "present_load",
+                "torque_limit",
+                "lower_limit",
+                "upper_limit",
+                "present_voltage",
+                "present_temperature",
+                "compliance_margin",
+                "compliance_slope"
+            ],
+            "goal_speed": -0.0,
+            "compliant": true,
+            "angle_limit":
+            [
+                -99.85,
+                100.15
+            ],
+            "id": 36,
+            "name": "head_z",
+            "model": "AX-12",
+            "present_position": -150.0,
+            "goal_position": -150.0,
+            "present_speed": 0.0,
+            "moving_speed": 0.0,
+            "present_load": 0.0,
+            "torque_limit": 100.0,
+            "lower_limit": -99.85,
+            "upper_limit": 100.15,
+            "present_voltage": 11.4,
+            "present_temperature": 32.0,
+            "compliance_margin":
+            [
+                1,
+                1
+            ],
+            "compliance_slope":
+            [
+                32,
+                32
+            ]
+        },
+        {
+            "registers":
+            [
+                "registers",
+                "goal_speed",
+                "compliant",
+                "safe_compliant",
+                "angle_limit",
+                "id",
+                "name",
+                "model",
+                "present_position",
+                "goal_position",
+                "present_speed",
+                "moving_speed",
+                "present_load",
+                "torque_limit",
+                "lower_limit",
+                "upper_limit",
+                "present_voltage",
+                "present_temperature",
+                "compliance_margin",
+                "compliance_slope"
+            ],
+            "goal_speed": 0.0,
+            "compliant": true,
+            "angle_limit":
+            [
+                20.03,
+                -28.060000000000002
+            ],
+            "id": 37,
+            "name": "head_y",
+            "model": "AX-12",
+            "present_position": -11.06,
+            "goal_position": -11.06,
+            "present_speed": -0.0,
+            "moving_speed": -0.0,
+            "present_load": -0.0,
+            "torque_limit": 100.0,
+            "lower_limit": 20.03,
+            "upper_limit": -28.060000000000002,
+            "present_voltage": 11.4,
+            "present_temperature": 32.0,
+            "compliance_margin":
+            [
+                1,
+                1
+            ],
+            "compliance_slope":
+            [
+                32,
+                32
+            ]
+        },
+        {
+            "registers":
+            [
+                "registers",
+                "goal_speed",
+                "compliant",
+                "safe_compliant",
+                "angle_limit",
+                "id",
+                "name",
+                "model",
+                "present_position",
+                "goal_position",
+                "present_speed",
+                "moving_speed",
+                "present_load",
+                "torque_limit",
+                "lower_limit",
+                "upper_limit",
+                "present_voltage",
+                "present_temperature",
+                "pid"
+            ],
+            "goal_speed": -0.0,
+            "compliant": true,
+            "angle_limit":
+            [
+                -209.95999999999998,
+                65.03
+            ],
+            "id": 41,
+            "name": "l_shoulder_y",
+            "model": "MX-28",
+            "present_position": -75.27,
+            "goal_position": -74.66,
+            "present_speed": 0.0,
+            "moving_speed": 0.0,
+            "present_load": 0.0,
+            "torque_limit": 100.0,
+            "lower_limit": -209.95999999999998,
+            "upper_limit": 65.03,
+            "present_voltage": 11.100000000000001,
+            "present_temperature": 30.0,
+            "pid":
+            [
+                4.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "registers":
+            [
+                "registers",
+                "goal_speed",
+                "compliant",
+                "safe_compliant",
+                "angle_limit",
+                "id",
+                "name",
+                "model",
+                "present_position",
+                "goal_position",
+                "present_speed",
+                "moving_speed",
+                "present_load",
+                "torque_limit",
+                "lower_limit",
+                "upper_limit",
+                "present_voltage",
+                "present_temperature",
+                "pid"
+            ],
+            "goal_speed": -0.0,
+            "compliant": true,
+            "angle_limit":
+            [
+                195.01,
+                -20.019999999999996
+            ],
+            "id": 42,
+            "name": "l_shoulder_x",
+            "model": "MX-28",
+            "present_position": 4.510000000000005,
+            "goal_position": 4.150000000000006,
+            "present_speed": -0.0,
+            "moving_speed": -0.0,
+            "present_load": -0.0,
+            "torque_limit": 100.0,
+            "lower_limit": 195.01,
+            "upper_limit": -20.019999999999996,
+            "present_voltage": 11.3,
+            "present_temperature": 30.0,
+            "pid":
+            [
+                4.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "registers":
+            [
+                "registers",
+                "goal_speed",
+                "compliant",
+                "safe_compliant",
+                "angle_limit",
+                "id",
+                "name",
+                "model",
+                "present_position",
+                "goal_position",
+                "present_speed",
+                "moving_speed",
+                "present_load",
+                "torque_limit",
+                "lower_limit",
+                "upper_limit",
+                "present_voltage",
+                "present_temperature",
+                "pid"
+            ],
+            "goal_speed": 0.0,
+            "compliant": true,
+            "angle_limit":
+            [
+                89.98,
+                -89.98
+            ],
+            "id": 43,
+            "name": "l_arm_z",
+            "model": "MX-28",
+            "present_position": -24.48,
+            "goal_position": -24.75,
+            "present_speed": -0.0,
+            "moving_speed": -0.0,
+            "present_load": -0.0,
+            "torque_limit": 100.0,
+            "lower_limit": 89.98,
+            "upper_limit": -89.98,
+            "present_voltage": 11.200000000000001,
+            "present_temperature": 31.0,
+            "pid":
+            [
+                4.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "registers":
+            [
+                "registers",
+                "goal_speed",
+                "compliant",
+                "safe_compliant",
+                "angle_limit",
+                "id",
+                "name",
+                "model",
+                "present_position",
+                "goal_position",
+                "present_speed",
+                "moving_speed",
+                "present_load",
+                "torque_limit",
+                "lower_limit",
+                "upper_limit",
+                "present_voltage",
+                "present_temperature",
+                "pid"
+            ],
+            "goal_speed": 0.0,
+            "compliant": true,
+            "angle_limit":
+            [
+                -50.0,
+                90.04
+            ],
+            "id": 44,
+            "name": "l_elbow_y",
+            "model": "MX-28",
+            "present_position": 5.299999999999997,
+            "goal_position": 5.209999999999994,
+            "present_speed": 0.0,
+            "moving_speed": 0.0,
+            "present_load": 0.0,
+            "torque_limit": 100.0,
+            "lower_limit": -50.0,
+            "upper_limit": 90.04,
+            "present_voltage": 11.3,
+            "present_temperature": 30.0,
+            "pid":
+            [
+                4.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "registers":
+            [
+                "registers",
+                "goal_speed",
+                "compliant",
+                "safe_compliant",
+                "angle_limit",
+                "id",
+                "name",
+                "model",
+                "present_position",
+                "goal_position",
+                "present_speed",
+                "moving_speed",
+                "present_load",
+                "torque_limit",
+                "lower_limit",
+                "upper_limit",
+                "present_voltage",
+                "present_temperature",
+                "pid"
+            ],
+            "goal_speed": 0.0,
+            "compliant": true,
+            "angle_limit":
+            [
+                65.03,
+                -210.04000000000002
+            ],
+            "id": 51,
+            "name": "r_shoulder_y",
+            "model": "MX-28",
+            "present_position": -64.9,
+            "goal_position": -72.46000000000001,
+            "present_speed": -0.0,
+            "moving_speed": -0.0,
+            "present_load": -0.0,
+            "torque_limit": 100.0,
+            "lower_limit": 65.03,
+            "upper_limit": -210.04000000000002,
+            "present_voltage": 11.600000000000001,
+            "present_temperature": 32.0,
+            "pid":
+            [
+                4.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "registers":
+            [
+                "registers",
+                "goal_speed",
+                "compliant",
+                "safe_compliant",
+                "angle_limit",
+                "id",
+                "name",
+                "model",
+                "present_position",
+                "goal_position",
+                "present_speed",
+                "moving_speed",
+                "present_load",
+                "torque_limit",
+                "lower_limit",
+                "upper_limit",
+                "present_voltage",
+                "present_temperature",
+                "pid"
+            ],
+            "goal_speed": -0.0,
+            "compliant": true,
+            "angle_limit":
+            [
+                20.019999999999996,
+                -195.01
+            ],
+            "id": 52,
+            "name": "r_shoulder_x",
+            "model": "MX-28",
+            "present_position": 1.5600000000000023,
+            "goal_position": 2.530000000000001,
+            "present_speed": -0.0,
+            "moving_speed": -0.0,
+            "present_load": -0.0,
+            "torque_limit": 100.0,
+            "lower_limit": 20.019999999999996,
+            "upper_limit": -195.01,
+            "present_voltage": 11.200000000000001,
+            "present_temperature": 30.0,
+            "pid":
+            [
+                4.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "registers":
+            [
+                "registers",
+                "goal_speed",
+                "compliant",
+                "safe_compliant",
+                "angle_limit",
+                "id",
+                "name",
+                "model",
+                "present_position",
+                "goal_position",
+                "present_speed",
+                "moving_speed",
+                "present_load",
+                "torque_limit",
+                "lower_limit",
+                "upper_limit",
+                "present_voltage",
+                "present_temperature",
+                "pid"
+            ],
+            "goal_speed": 0.0,
+            "compliant": true,
+            "angle_limit":
+            [
+                89.98,
+                -89.98
+            ],
+            "id": 53,
+            "name": "r_arm_z",
+            "model": "MX-28",
+            "present_position": -31.34,
+            "goal_position": -30.9,
+            "present_speed": -0.0,
+            "moving_speed": -0.0,
+            "present_load": -0.0,
+            "torque_limit": 100.0,
+            "lower_limit": 89.98,
+            "upper_limit": -89.98,
+            "present_voltage": 11.100000000000001,
+            "present_temperature": 30.0,
+            "pid":
+            [
+                4.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "registers":
+            [
+                "registers",
+                "goal_speed",
+                "compliant",
+                "safe_compliant",
+                "angle_limit",
+                "id",
+                "name",
+                "model",
+                "present_position",
+                "goal_position",
+                "present_speed",
+                "moving_speed",
+                "present_load",
+                "torque_limit",
+                "lower_limit",
+                "upper_limit",
+                "present_voltage",
+                "present_temperature",
+                "pid"
+            ],
+            "goal_speed": -0.0,
+            "compliant": true,
+            "angle_limit":
+            [
+                89.96,
+                -57.03
+            ],
+            "id": 54,
+            "name": "r_elbow_y",
+            "model": "MX-28",
+            "present_position": 4.769999999999996,
+            "goal_position": 10.840000000000003,
+            "present_speed": -0.0,
+            "moving_speed": -0.0,
+            "present_load": -0.0,
+            "torque_limit": 100.0,
+            "lower_limit": 89.96,
+            "upper_limit": -57.03,
+            "present_voltage": 11.100000000000001,
+            "present_temperature": 31.0,
+            "pid":
+            [
+                4.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "primitives":
+    [
+        {
+            "primitive": "limit_torque",
+            "running": false,
+            "properties":
+            [],
+            "methods":
+            [
+                "start",
+                "stop",
+                "pause",
+                "resume"
+            ]
+        },
+        {
+            "primitive": "temperature_monitoring",
+            "running": true,
+            "properties":
+            [],
+            "methods":
+            [
+                "start",
+                "stop",
+                "pause",
+                "resume"
+            ]
+        },
+        {
+            "primitive": "dance_beat_motion",
+            "running": false,
+            "properties":
+            [],
+            "methods":
+            [
+                "start",
+                "stop",
+                "pause",
+                "resume"
+            ]
+        },
+        {
+            "primitive": "init_position",
+            "running": false,
+            "properties":
+            [],
+            "methods":
+            [
+                "start",
+                "stop",
+                "pause",
+                "resume"
+            ]
+        },
+        {
+            "primitive": "upper_body_idle_motion",
+            "running": false,
+            "properties":
+            [],
+            "methods":
+            [
+                "start",
+                "stop",
+                "pause",
+                "resume"
+            ]
+        },
+        {
+            "primitive": "head_idle_motion",
+            "running": false,
+            "properties":
+            [],
+            "methods":
+            [
+                "start",
+                "stop",
+                "pause",
+                "resume"
+            ]
+        },
+        {
+            "primitive": "arms_turn_compliant",
+            "running": false,
+            "properties":
+            [],
+            "methods":
+            [
+                "start",
+                "stop",
+                "pause",
+                "resume"
+            ]
+        },
+        {
+            "primitive": "arms_copy_motion",
+            "running": false,
+            "properties":
+            [],
+            "methods":
+            [
+                "start",
+                "stop",
+                "pause",
+                "resume"
+            ]
+        }
+    ]
+}

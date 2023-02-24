@@ -1,5 +1,7 @@
 # aiventure-david
 
+NOTE: The sources for the behaviour and runtime are in cartheur/aiventure-aeon. These will be integrated into one project in the near future.
+
 It begins with a novel project called *poppy*. Search across GitHub for "poppy-humanoid" and you will see what I mean. There is a folder for the electronics in the head, as the descriptions of this are sparse. Poppy was an open-source 3D-printable bipedal robot that is expensive to build due to the cost of the Robotis motors. When we ordered a set in February 2021, it set us back a cool EUR 5.000. A Lulzbot and FlashForge printer helped us to realize a prototype build.
 
 The name of the project needs some explaining: The term *aiventure* means adventure in AI. And I don't throw that term around lightly. Artificial intelligence, as much of a misnomer as it is, is notoriously complicated to render correctly. But I believe we have some candidate routines that qualify. The addition of *david* I don't readily recall, but it is between these three davids:

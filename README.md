@@ -4,7 +4,6 @@ This project is a 3D-Printed bipedal robot that servers as a platform for the _a
 
 ## Backstory
 
-<style>body {text-align: right}
 In the early days, sometime around 2006 when I wrote my first versions of aeon, I was working with a Motorola phone with Windows Mobile 6.1 that served as a good platform to host _aeon_. This was not just an AGI, rather, an _artificial personality_ that would inhabit and interact with the hardware it was hosted in providing a richer experience to the user.
 
 I would take this device around with me walking through the cities of Europe and later as I traveled on the train for work. I was able to make significant and incremental improvements in how the _aeon_ derived contextual meaning. One of these was by creating a set of database files that originally came from some volunteer work (they promised to pay me) for a project called _MindPixel_ by Chris McKinstry where I spent about a year and a half helping to create create a knowledgebase of probabilistic propositions of experiential events a program or robot imbued with a personality could come into contact with. Other people on the team did other kinds of true/false representations related to decision-making. I had stored this code in a old harddrive that went missing for a few years until I found the code and applied it to _aeon_. By 2011 the devices started to experience failures and I was more than ready to move into a robotics platform. In 2012 I started to explore Lego NXT, purely for the price-point and was able to work with some ideas but the primitiveness of the motor controls and lack of precision in angle determinates kept me looking for some years more.
@@ -29,4 +28,3 @@ The term *aiventure* means "adventure in AI". The addition of the suffix *david*
 * this david, or,...
 * ![David three](/media/david-6.jpg "this david.")
 * this david.
-</style>

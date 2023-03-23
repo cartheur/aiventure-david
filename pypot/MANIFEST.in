@@ -1,4 +1,0 @@
-include pypot/vrep/remoteApiBindings/lib/*/*/remoteApi.*
-include pypot/server/snap_projects/*
-include *.md
-

@@ -3,8 +3,8 @@
 This project is a 3D-Printed bipedal robot that servers as a platform for the _aeon_ AGI.
 
 ## Backstory
-
-In the early days, sometime around 2006 when I wrote my first versions of aeon, I was working with a Motorola phone with Windows Mobile 5 that served as a good platform to host _aeon_. This was not just an AGI, rather, an _artificial personality_ that would inhabit and interact with the hardware it was hosted in providing a richer experience to the user.
+<p align=justify>
+In the early days, sometime around 2006 when I wrote my first versions of aeon, I was working with a Motorola phone with Windows Mobile 5 that served as a good platform to host _aeon_. This was not just an AGI, rather, an _artificial personality_ that would inhabit and interact with the hardware it was hosted in providing a richer experience to the user.</p>
 
 ![Motorola-Q](/media/motorola-q.jpg "My Motorola-Q that hosted the first aeon")
 

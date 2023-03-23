@@ -12,9 +12,15 @@ As I made more money working, I was able to afford a second-hand robot called Na
 
 By 2022 I was ready to start anew with a different robotics platform that I could build myself and keep control of the parameters I deemed necessary that the _aeon_ could reliably inhabit. I read a paper on a 3D-printed robot called *poppy* that was sufficient as a place to begin this new endeavour. Upon the purchase of the Robotis motors and sourcing of my own computer equipment, a Lulzbot and FlashForge printer helped to realize this build. Although the source files for poppy were good, they needed some improvements and changes to accommodate my design intentions. With my company as a startup, I was able to obtain a license for Solidworks for a good price that began in October 2022.
 
-## Some culturally-relevant details
+## An important culturally-relevant detail
 
-It is a deep-seated tendency of the human mind to create analogies of phenomena it comes into contact with. The name of the project needs some explaining: The term *aiventure* means adventure in AI. And I don't throw that term around lightly. Artificial intelligence, as much of a misnomer as it is, is notoriously complicated to render correctly. But I believe we have some candidate routines that qualify. The addition of *david* I don't readily recall, but it is between these three davids:
+It is a deep-seated tendency of the human mind to create analogies of phenomena it comes into contact with, especially those that are not easily understood. One of these, to a great degree, is the idea of designing and building a system that has a purpose of simulating or mimicking another living creature. Western and Eastern mythology on this subject has icons and characters who perform the act of creation through exercising divinity by a variety of means. All known cultures that have existed possess a creation myth. Such an act is a native part of our being where anyone can exercise it at will. This is explained in detail by the philosopher Arthur Schopenhauer. Certainly, it is possible for a mind to contemplate divinity and a requisite architecture to carry it out; however, realization is a wholly different matter. The exercise of its tenets a dangerous road fraught with difficulties and challenges. It is for the future to determine if it all was worth it.
+
+As of today I am still working with the design models. I push often to this repository so keep in touch with me via Discord.
+
+## What does the name of the project mean?
+
+The term *aiventure* means "adventure in AI". The addition of the suffix *david* I don't readily recall, but it is between one of these three _davids_:
 
 * ![David one](/media/david-1.jpg "This david,")
 * This david,...
@@ -22,5 +28,3 @@ It is a deep-seated tendency of the human mind to create analogies of phenomena 
 * this david, or,...
 * ![David three](/media/david-6.jpg "this david.")
 * this david.
-
-There are many origins and I am in the process of writing the mythology of this project, given its importance. As of today I am still working with the design models. I push often to this repository so keep in touch with me via Discord.

@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues/cartheur/aiventure-david)](https://github.com/cartheur/aiventure-david/issues)
+
 # aiventure-david
 
 This project is a 3D-Printed bipedal robot that servers as a platform for the _aeon_ AGI.

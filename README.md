@@ -1,3 +1,4 @@
+[![GitHub license](https://img.shields.io/github/license/cartheur/aiventure-david)](https://github.com/cartheur/aiventure-david/blob/main/LICENSE.txt)
 [![GitHub issues](https://img.shields.io/github/issues/cartheur/aiventure-david)](https://github.com/cartheur/aiventure-david/issues)
 
 # aiventure-david

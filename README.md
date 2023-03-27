@@ -8,9 +8,9 @@ This project is a 3D-Printed bipedal robot that servers as a platform for the _a
 The project has evolved from:
 
 * The smartphone (2005 - 2016)
-* A toy bear [toy bear](https://github.com/cartheur/henry) (2016 - 2018)
-* A Nao implementation purely as an _aeon personality_ (2017 - 2020)
-* A plush  [emotional toy](https://emotional.toys) (2017 - 2019)
+* A [toy bear](https://github.com/cartheur/henry) (2016 - 2018)
+* A [Nao implementation](https://rumble.com/c/c-2434744) purely as an _aeon personality_ (2017 - 2020)
+* A plush [emotional toy](https://emotional.toys) (2017 - 2019)
 * An environmentally-friendly [bipedal robot](https://github.com/cartheur/aiventure-david) (2020 - Present)
 * A bipedal robot that runs without wires; that is, computer onboard and with a battery. (March 2023 - Onward)
 

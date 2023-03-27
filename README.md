@@ -5,13 +5,14 @@
 
 This project is a 3D-Printed bipedal robot that servers as a platform for the _aeon_ AGI. It is the third-generation of the evolution of this project.
 
-The project has evoved from:
+The project has evolved from:
 
-* The smartphone
-* A toy bear [toy bear](https://github.com/cartheur/henry)
-* A plush  [emotional toy](https://emotional.toys)
-* An environmentally-friendly [bipedal robot](https://github.com/cartheur/aiventure-david)
-* A bipedal robot that runs without wires; that is, computer onboard and with a battery.
+* The smartphone (2005 - 2016)
+* A toy bear [toy bear](https://github.com/cartheur/henry) (2016 - 2018)
+* A Nao implementation purely as an _aeon personality_ (2017 - 2020)
+* A plush  [emotional toy](https://emotional.toys) (2017 - 2019)
+* An environmentally-friendly [bipedal robot](https://github.com/cartheur/aiventure-david) (2020 - Present)
+* A bipedal robot that runs without wires; that is, computer onboard and with a battery. (March 2023 - Onward)
 
 As an increasing complexity of behaviour and implementation. Here at the Generation-Three of the work, currently what is necessary is a stationary test as I complete some animation-training code. I will describe this is in greater detail later.
 

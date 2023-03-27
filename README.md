@@ -30,9 +30,14 @@ Stay tuned!
 
 The term *aiventure* means "adventure in AI". The addition of the suffix *david* I don't readily recall, but it is between one of these three _davids_:
 
-* ![David one](/media/david-1.jpg "This david,")
-* This david,...
-* ![David two](/media/david-2.jpg "this david, or,")
-* this david, or,...
-* ![David three](/media/david-6.jpg "this david.")
-* this david.
+![David one](/media/david-1.jpg "This david,")
+
+This david,...
+
+[David two](/media/david-2.jpg "this david, or,")
+
+this david, or,...
+
+![David three](/media/david-6.jpg "this david.")
+
+this david.

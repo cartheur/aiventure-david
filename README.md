@@ -24,6 +24,8 @@ Here is it running (on battery) taking a picture of the programmer.
 
 As it is stupid to have a bipedal robot friend attached to cables, the david prototype is at the point where I am starting to test operation with a battery. This battery is rather large (200mm x 150mm x 30mm) at 1.16kg but will run 12 volts to a level of 40Ah. Stationary tests indicate the battery will last 2.5 hours but the next steps will be standing and animation training tests.
 
+As I did work on wireless power, it is a feature to leverage a wireless-charged battery so that the battery could be, say, in a backpack and recharged with a pad, rather than cables. There are some manufacturers working on this but currently it is just wireless-powering phones. Time will tell!
+
 Stay tuned!
 
 ## What does the name of the project mean?

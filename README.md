@@ -12,7 +12,8 @@ The project has evoved from:
 * A plush  [emotional toy](https://emotional.toys)
 * An environmentally-friendly [bipedal robot](https://github.com/cartheur/aiventure-david)
 * A bipedal robot that runs without wires; that is, computer onboard and with a battery.
-The present work is a stationary test as I complete some animation-training code.
+
+As an increasing complexity of behaviour and implementation. Here at the Generation-Three of the work, currently what is necessary is a stationary test as I complete some animation-training code. I will describe this is in greater detail later.
 
  ![no cables!](/media/on-battery.jpg "Staging for battery check")
 
@@ -20,7 +21,7 @@ Here is it running (on battery) taking a picture of the programmer.
 
 ![m.e](/media/hallome-m.jpg "Who's that handsome monkey?")
 
-As an increasing complexity of behaviour and implementation. As it is stupid to have a bipedal robot friend attached to cables, the david prototype is at the point where I am starting to test operation with a battery. This battery is rather large (200mm x 150mm x 10mm) at 850g but will run 12 volts to a level of 40Ah. Stationary tests indicate the battery will last 2.5 hours but the next steps will be standing and animation training tests.
+As it is stupid to have a bipedal robot friend attached to cables, the david prototype is at the point where I am starting to test operation with a battery. This battery is rather large (200mm x 150mm x 10mm) at 850g but will run 12 volts to a level of 40Ah. Stationary tests indicate the battery will last 2.5 hours but the next steps will be standing and animation training tests.
 
 Stay tuned!
 

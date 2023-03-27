@@ -22,7 +22,7 @@ Here is it running (on battery) taking a picture of the programmer.
 
 ![m.e](/media/hallome-m.jpg "Who's that handsome monkey?")
 
-As it is stupid to have a bipedal robot friend attached to cables, the david prototype is at the point where I am starting to test operation with a battery. This battery is rather large (200mm x 150mm x 10mm) at 850g but will run 12 volts to a level of 40Ah. Stationary tests indicate the battery will last 2.5 hours but the next steps will be standing and animation training tests.
+As it is stupid to have a bipedal robot friend attached to cables, the david prototype is at the point where I am starting to test operation with a battery. This battery is rather large (200mm x 150mm x 30mm) at 1.16kg but will run 12 volts to a level of 40Ah. Stationary tests indicate the battery will last 2.5 hours but the next steps will be standing and animation training tests.
 
 Stay tuned!
 

@@ -3,7 +3,7 @@
 
 # aiventure-david
 
-This project is a 3D-Printed bipedal robot that servers as a platform for the _aeon_ AGI.
+This project is a 3D-Printed bipedal robot that servers as a platform for the _aeon_ AGI. It is the third-generation of the evolution of this project.
 
 ## Backstory
 <p align=justify>

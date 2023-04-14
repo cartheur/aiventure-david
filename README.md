@@ -30,7 +30,7 @@ Stay tuned!
 
 ## What does the name of the project mean?
 
-The term *aiventure* means "adventure in AI". The addition of the suffix *david* I don't readily recall, but it is between one of these three _davids_:
+The term *aiventure* means "adventure in AI". The addition of the suffix *david* I don't readily recall, but it is between one of these three _davids_, although it could be more conspiratorial than that:
 
 ![David one](/media/david-1.jpg "This david,")
 

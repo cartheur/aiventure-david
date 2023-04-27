@@ -26,8 +26,6 @@ As it is stupid to have a bipedal robot friend attached to cables, the david pro
 
 As I did work on wireless power, it is a feature to leverage a wireless-charged battery so that the battery could be, say, in a backpack and recharged with a pad, rather than cables. There are some manufacturers working on this but currently it is just wireless-powering phones. Time will tell!
 
-Stay tuned!
-
 ## What does the name of the project mean?
 
 The term *aiventure* means "adventure in AI". The addition of the suffix *david* I don't readily recall, but it is between one of these three _davids_, although it could be more conspiratorial than that:

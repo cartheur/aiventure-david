@@ -12,6 +12,9 @@ The project has evolved from:
 * A [Nao implementation](https://rumble.com/c/c-2434744) purely as an _aeon personality_ (2017 - 2020)
 * A plush [emotional toy](https://emotional.toys) (2017 - 2019)
 * An environmentally-friendly [bipedal robot](https://github.com/cartheur/aiventure-david) (2020 - Present)
+
+And is evolving into:
+
 * Head redesign for the bipedal robot using the native code files from Poppy but advancing using Solidworks. This head will encapsulate a Liva minicomputer. (October 2022 - Present)
 * Battery compartment and battery to remove the plugged-in power supply. It does run on a 40Ah cell but is pretty power thirsty, even while idle. (Scheduled October 2023)
 

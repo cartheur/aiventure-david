@@ -41,3 +41,7 @@ this david, or,...
 ![David three](/media/david-6.jpg "this david.")
 
 this david.
+
+### Notes
+
+Gather the story.

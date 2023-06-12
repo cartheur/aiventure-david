@@ -15,7 +15,7 @@ The project has evolved from:
 
 And is evolving into:
 
-* Head redesign for the bipedal robot using the native code files from Poppy but advancing using Solidworks. This head will encapsulate a Liva minicomputer. (October 2022 - Present)
+* Head redesign for the bipedal robot using the native code files from Poppy but advancing using Solidworks. This head will encapsulate a Liva minicomputer. (Started October 2022)
 * Battery compartment and battery to remove the plugged-in power supply. It does run on a 40Ah cell but is pretty power thirsty, even while idle. (Scheduled October 2023)
 
 As an increasing complexity of behaviour and implementation. Here at the Generation-Three of the work, currently what is necessary is a stationary test as I complete some animation-training code. I will describe this is in greater detail later.

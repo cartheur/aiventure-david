@@ -5,4 +5,7 @@ We have a deadline of two years to get it ready for show. However, there is a lo
 
 12.06.2023
     2136: A mastery of Solidworks is critical to the addition of the face and adding the computer to the head, so that it can have a degree of autonomy.
-    2137: The next design, then, will be the battery pack. 
+    2137: The next design, then, will be the battery pack.
+14.06.2023
+    1026: Installed the speakers but will need to refine the drivers.
+    

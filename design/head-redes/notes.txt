@@ -8,4 +8,5 @@ We have a deadline of two years to get it ready for show. However, there is a lo
     2137: The next design, then, will be the battery pack.
 14.06.2023
     1026: Installed the speakers but will need to refine the drivers.
+    1048: Synchronized the Solidworks development files to mark progress.
     

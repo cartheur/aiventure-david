@@ -13,6 +13,9 @@ The project has evolved from:
 * A plush [emotional toy](https://emotional.toys) (2017 - 2019)
 * An environmentally-friendly [bipedal robot](https://github.com/cartheur/aiventure-david) (2020 - Present)
 
+Here is what it sees
+![m.e](/m.e/views.png)
+
 And is evolving into:
 
 * Head redesign for the bipedal robot using the native code files from Poppy but advancing using Solidworks. This head will encapsulate a Liva minicomputer. (Started October 2022)

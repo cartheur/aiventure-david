@@ -22,6 +22,7 @@ And is evolving into:
 * Battery compartment and battery to remove the plugged-in power supply. It does run on a 40Ah cell but is pretty power thirsty, even while idle. (Scheduled October 2023)
 * De-evolution to a 4.3" HDMI touch screen to link with odroid XU-4, sold by [waveshare](https://www.waveshare.com/4.3inch-HDMI-LCD-B.htm)
     - Problem is: The screen is bloody annoying as it seems to splay one's face with juicy radiation. I was right not considering these kinds of interfaces previously. Bipedal only has a camera and this will stay for the moment. (April 2024)
+    - People shoudn't (and certainly aren't) fucking spoiled about a robot having a face. Show me one in manufacture or proposal _right now_.
 
 The complexity of behaviour and implementation is arbitrary. Here at the Generation-Three of the work, currently what is necessary is a stationary test as I complete some animation-training code. I will describe this is in greater detail later.
 

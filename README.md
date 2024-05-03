@@ -27,7 +27,7 @@ The complexity of behaviour and implementation is arbitrary. Here at the Generat
 
  ![no cables!](/media/on-battery.jpg "Staging for battery check")
 
-Here is it running (on battery) taking a picture of the programmer.
+Here is it running (on battery) taking a picture of m.e.
 
 ![m.e](/media/hallome-m.jpg "Who's that handsome monkey?")
 

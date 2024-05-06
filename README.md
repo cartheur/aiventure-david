@@ -24,7 +24,7 @@ And is evolving into:
     - Problem is: The screen is bloody annoying as it seems to splay one's face with juicy radiation. I was right not considering these kinds of interfaces previously. Bipedal only has a camera and this will stay for the moment. (April 2024)
     - People shoudn't (and certainly aren't) fucking spoiled about a robot having a face. Show me one in manufacture or proposal _right now_.
 
-The complexity of behaviour and implementation is arbitrary. Here at the Generation-Three of the work, currently what is necessary is a stationary test as I complete some animation-training code. I will describe this is in greater detail later.
+The complexity of behaviour and implementation is arbitrary. Here at the Generation-Three of the work, currently what is necessary is a stationary test as I complete some animation-training code. I will describe this is in greater detail later. Key is to be able to create my own stuctures and application behaviours outside of the dictations of a compiler - herein lies the direct challenge.
 
  ![no cables!](/media/on-battery.jpg "Staging for battery check")
 

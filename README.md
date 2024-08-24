@@ -54,4 +54,4 @@ this david.
 
 ### Notes
 
-Gather the story.
+Gather the story. Make a difference.

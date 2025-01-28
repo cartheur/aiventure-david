@@ -3,6 +3,10 @@
 
 ## aiventure-david
 
+Most complex implementation of the animals (emotional toys) interactive codebase.
+
+### Architecture disclosure
+
 * The architecture of the program is illustrated in the following diagram:
 
 ![david-diagram](/media/DavidDiagram.png)

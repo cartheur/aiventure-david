@@ -1,7 +1,13 @@
 [![GitHub license](https://img.shields.io/github/license/cartheur/aiventure-david)](https://github.com/cartheur/aiventure-david/blob/main/LICENSE.txt)
 [![GitHub issues](https://img.shields.io/github/issues/cartheur/aiventure-david)](https://github.com/cartheur/aiventure-david/issues)
 
-# aiventure-david
+## aiventure-david
+
+* The architecture of the program is illustrated in the following diagram:
+
+![david-diagram](/media/DavidDiagram.png)
+
+### Background
 
 This project is a 3D-Printed bipedal robot that servers as a platform for the _aeon_ AGI. It is the third-generation of the evolution of this project.
 

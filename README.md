@@ -7,9 +7,11 @@ Most complex implementation of the animals (emotional toys) interactive codebase
 
 ### Architecture disclosure
 
-* The architecture of the program is illustrated in the following diagram:
+* The class architecture of the program is illustrated in the following diagram:
 
 ![david-diagram](/media/DavidDiagram.png)
+
+Source code not yet released.
 
 ### Background
 

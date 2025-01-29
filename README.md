@@ -11,7 +11,7 @@ Most complex implementation of the animals (emotional toys) interactive codebase
 
 ![david-diagram](/media/DavidDiagram.png)
 
-Source code not yet released.
+Source code not yet released. Reason: RL still under development, along with [haden](https://github.com/ai-haden/aiventure-haden).
 
 ### Background
 

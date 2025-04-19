@@ -1,0 +1,4 @@
+November 2022
+Using the simulator and pypot to create animations
+
+Start the CoppolaSim application, then the Jupyter notebook from totalcommander, and the basic ordered motions can be determined. The matter now is to assign the goal position (in angle coordinates) from the present position of the motor(s). If there is synchronous motion, then consider grouping motors.

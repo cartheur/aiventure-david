@@ -1,23 +1,13 @@
 ## aiventure-david
 
-Most complex implementation of the animals and emotional toys interactive codebases. A directly-embodied form is [joi](https://github.com/cartheur-joi/arthur-bipedal).
-
-### Architecture disclosure
-
-* The class architecture of the robot's control is illustrated in the following diagram.
-
-![david-diagram](/media/DavidDiagram.png)
-
-Source code in-process of development where our specialized RL rules
+Most complex implementation of the animals and emotional toys interactive codebases. A directly-embodied form is [joi](https://github.com/cartheur-joi/arthur-bipedal). Source code in-process of development where our specialized RL rules
 
 * [ideal](https://github.com/cartheur/ideal)
 * [haden](https://github.com/ai-haden/aiventure-haden).
 
-### Background
+_Background_
 
-This project is a 3D-Printed bipedal robot that servers as a platform for the _aeon_ AGI. It is the third-generation of the evolution of this project.
-
-The project has evolved from:
+This project is a 3D-Printed bipedal robot that servers as a platform for _aeon_. It is the third-generation and the most ambitious of our embodied works. The project evolved from:
 
 * The smartphone (2005 - 2016)
 * A [toy bear](https://github.com/cartheur/henry) (2016 - 2018)

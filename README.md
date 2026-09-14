@@ -1,9 +1,6 @@
-[![GitHub license](https://img.shields.io/github/license/cartheur/aiventure-david)](https://github.com/cartheur/aiventure-david/blob/main/LICENSE.txt)
-[![GitHub issues](https://img.shields.io/github/issues/cartheur/aiventure-david)](https://github.com/cartheur/aiventure-david/issues)
-
 ## aiventure-david
 
-Most complex implementation of the animals (emotional toys) interactive codebase.
+Most complex implementation of the animals and emotional toys interactive codebases. A directly-embodied form is [joi](https://github.com/cartheur-joi/arthur-bipedal).
 
 ### Architecture disclosure
 
@@ -11,7 +8,10 @@ Most complex implementation of the animals (emotional toys) interactive codebase
 
 ![david-diagram](/media/DavidDiagram.png)
 
-Source code not yet released. Reason: RL still under development, along with [haden](https://github.com/ai-haden/aiventure-haden).
+Source code in-process of development where our specialized RL rules
+
+* [ideal](https://github.com/cartheur/ideal)
+* [haden](https://github.com/ai-haden/aiventure-haden).
 
 ### Background
 
